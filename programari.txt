@@ -1,0 +1,6 @@
+Nume: Dumiytu
+Prenume: alina
+Data: 19
+Ora: 18
+Hairstylist: Ana Redenciuc
+--------------------
