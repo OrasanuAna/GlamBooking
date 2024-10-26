@@ -9,7 +9,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Future Improvements](#future-improvements)
 
 ## Overview
 
@@ -51,12 +50,6 @@ This application is designed as a complete management tool for hair salons, allo
    - Add new clients and manage their preferences in the client database.
    - Edit service offerings and prices in the services section.
    - View reports to analyze appointment trends and staff availability.
-
-## Future Improvements
-
-- **Online Booking Integration**: Allow clients to book appointments online.
-- **Automated Notifications**: Send reminders to clients and staff about upcoming appointments.
-- **Enhanced Reporting**: Include additional analytics to track customer trends and service popularity.
 
 ---
 
