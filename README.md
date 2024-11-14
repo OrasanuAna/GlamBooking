@@ -1,6 +1,6 @@
-# Hair Salon Management System
+# GlamBooking
 
-**Hair Salon Management System** is a Java-based application developed to streamline operations for a hair salon. This project aims to help salon owners manage appointments, clients, services, and staff more efficiently. By using this system, salon administrators can handle scheduling, track client preferences, and improve overall customer service.
+**GlamBooking** is a Java-based application developed to streamline operations for a hair salon. This project aims to help salon owners manage appointments, clients, services, and staff more efficiently. By using this system, salon administrators can handle scheduling, track client preferences, and improve overall customer service.
 
 ## Table of Contents
 
